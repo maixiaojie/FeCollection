@@ -6,7 +6,7 @@
 
     - [语法](./HTML代码规范/README.MD#one)
     
-    - [HTML5 doctype](./HTML代码规范/README.MD#two)
+    - [HTML5_doctype](./HTML代码规范/README.MD#two)
     
  2. [CSS代码规范](./CSS代码规范/README.MD)
 
